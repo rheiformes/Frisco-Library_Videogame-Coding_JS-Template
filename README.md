@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://rheiformes.github.io/frisco-library_videogame-coding_js-template/](https://rheiformes.github.io/frisco-library_videogame-coding_js-template/)
+
 
 ## Use as Extension
 
