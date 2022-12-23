@@ -1,5 +1,12 @@
  
 
+## Project Information:
+This is a template for use for the Intro to Videogame Coding for Middle Schoolers class series I launched at Frisco Library. This one uses JavaScript, and participants can use Microsoft MakeCode Arcade (available on browser) as a code editor and simulators. 
+
+I have uploaded this on GitHub for easy use to download all code and assets directly into MakeCode as an extension. You can see those directions below (provided by MakeCode)
+
+To just see the code editor/environment in MakeCode Arcade itself, you can go to this link here: https://makecode.com/_06cE9xDbY2dg
+
 
 
 
