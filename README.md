@@ -3,12 +3,12 @@
 ## Project Information:
 This is a template I created for use for the Intro to Videogame Coding for Middle Schoolers class series I launched at Frisco Library. This one uses JavaScript, and participants can use Microsoft MakeCode Arcade (available on browser) as a code editor and simulators. 
 
-I have uploaded this on GitHub for easy use to download all code and assets directly into MakeCode as an extension. You can see those directions below (provided by MakeCode)
+I have uploaded this on GitHub for easy use to download all code and assets directly into MakeCode as an extension. It also makes it easier to share the project to librarians and others interested in the classes. You can see those directions below (automatic text provided by MakeCode)
 
-To just see the code editor/environment in MakeCode Arcade itself, you can go to this link here: https://makecode.com/_06cE9xDbY2dg
+Also, to just see the code editor/environment in MakeCode Arcade itself, you can go to this link here: https://makecode.com/_06cE9xDbY2dg
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Use as Extension
 
@@ -26,13 +26,6 @@ To edit this repository in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/rheiformes/frisco-library_videogame-coding_js-template** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/rheiformes/frisco-library_videogame-coding_js-template/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
